@@ -70,7 +70,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website for projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React"],
-    source: "https://github.com/b-temirov"
+    source: "https://github.com/b-temirov/portfolio-website"
   },
 ];
 
